@@ -1127,7 +1127,7 @@ function shareResults() {
         scoreIcons += icon;
     });
     
-    shareText += `${scoreIcons}\n\nPlay at: yourdomain.com`;
+    shareText += `${scoreIcons}\n\nPlay at: cartoobscura.com`;
 
     // Only use navigator.share on mobile devices
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
